@@ -63,10 +63,6 @@ A modern trekking tour website built with Next.js and Tailwind CSS featuring var
 
 The application can be easily deployed to Vercel or any other hosting service that supports Next.js.
 
-## License
-
-MIT License
-
 ## Author
 
 [Hirdyansh Kumar](https://github.com/HirdyanshKumar)
