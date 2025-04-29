@@ -59,10 +59,6 @@ A modern trekking tour website built with Next.js and Tailwind CSS featuring var
 - `/src/components`: React components
 - `/public`: Static assets like images
 
-## Deployment
-
-The application can be easily deployed to Vercel or any other hosting service that supports Next.js.
-
 ## Author
 
 [Hirdyansh Kumar](https://github.com/HirdyanshKumar)
