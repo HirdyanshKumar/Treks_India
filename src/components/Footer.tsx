@@ -105,10 +105,10 @@ export default function Footer() {
             <h3 className="text-xl font-semibold mb-4">Contact Us</h3>
             <address className="not-italic">
               <p className="mb-2 text-gray-300">
-                123 Mountain View Road
+                123 Adventure Street
               </p>
               <p className="mb-2 text-gray-300">
-                Rishikesh, Uttarakhand 249201
+                New Delhi, India - 110001
               </p>
               <p className="mb-2 text-gray-300">
                 <strong>Phone:</strong> +91 98765 43210
@@ -121,7 +121,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center text-gray-300">
-          <p>&copy; {new Date().getFullYear()} Treks India. All rights reserved.</p>
+          <p>Made with ❤️ By Hirdyansh Kumar</p>
         </div>
       </div>
     </footer>
